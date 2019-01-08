@@ -1,1 +1,1 @@
-# ML-Techyniques
+# ML-Techniques
